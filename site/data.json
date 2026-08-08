@@ -1,0 +1,168 @@
+{
+  "slug": "document-studio",
+  "host": "document",
+  "title": "Document Studio",
+  "tagline": "Documents, PDF, reports, contracts",
+  "description": "Create and edit rich documents, PDFs, and Markdown. Draft contracts, resumes, proposals, invoices, and certificates, publish eBooks, magazines, and newsletters, and generate HR documents like offer letters and job descriptions.",
+  "editors": [
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Document Editor",
+      "desc": "Rich document creation and editing"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "PDF Editor",
+      "desc": "PDF viewing, editing, annotation"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Markdown Editor",
+      "desc": "Markdown writing with live preview"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Rich Text Editor",
+      "desc": "WYSIWYG rich text formatting"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Contract Editor",
+      "desc": "Legal contract drafting and clauses"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Resume Editor",
+      "desc": "Professional resume/CV builder"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Proposal Editor",
+      "desc": "Business proposal creation"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Report Editor",
+      "desc": "Structured report generation"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Invoice Editor",
+      "desc": "Invoice creation and management"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Certificate Editor",
+      "desc": "Certificate design and issuance"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "ID Card Editor",
+      "desc": "ID card layout and printing"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "eBook Editor",
+      "desc": "eBook formatting and publishing"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Magazine Editor",
+      "desc": "Multi-page magazine layout"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Newsletter Editor",
+      "desc": "Email/print newsletter design"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Brochure Editor",
+      "desc": "Tri-fold/multi-page brochure design"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Newspaper Editor",
+      "desc": "Multi-column newspaper layout"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Label Editor",
+      "desc": "Product/shipping label design"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Print Layout Editor",
+      "desc": "Print-ready pagination"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Form-Fillable PDF Editor",
+      "desc": "Interactive PDF form fields"
+    },
+    {
+      "category": "Document & Publishing Editors",
+      "name": "Citation/Bibliography Editor",
+      "desc": "Academic citation management"
+    },
+    {
+      "category": "Business Document Editors",
+      "name": "Job Description Editor",
+      "desc": "HR job description templates"
+    },
+    {
+      "category": "Business Document Editors",
+      "name": "Offer Letter Editor",
+      "desc": "Employment offer letter generation"
+    },
+    {
+      "category": "Business Document Editors",
+      "name": "Interview Kit Editor",
+      "desc": "Interview question sets and scorecards"
+    },
+    {
+      "category": "Business Document Editors",
+      "name": "Candidate Profile Editor",
+      "desc": "Candidate resume/profile management"
+    },
+    {
+      "category": "Business Document Editors",
+      "name": "Product Catalog Editor",
+      "desc": "Product listing and catalog layout"
+    }
+  ],
+  "services": [
+    [
+      "document",
+      "core"
+    ],
+    [
+      "publishing",
+      "core"
+    ],
+    [
+      "media",
+      "new"
+    ],
+    [
+      "workflow",
+      "core"
+    ],
+    [
+      "knowledge",
+      "core"
+    ],
+    [
+      "verification",
+      "new"
+    ],
+    [
+      "collaboration",
+      "gap"
+    ],
+    [
+      "asset",
+      "gap"
+    ]
+  ]
+}
